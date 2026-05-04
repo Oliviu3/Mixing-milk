@@ -1,2 +1,2 @@
 # Mixing-milk
-Complexity 100; Bronze,easy
+https://usaco.org/index.php?page=viewproblem2&cpid=855
